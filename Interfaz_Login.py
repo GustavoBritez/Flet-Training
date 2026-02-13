@@ -48,7 +48,7 @@ def main (page:ft.Page):
                     width=320,
                     height=50,
                     text_align= "Center",
-                    weight="w900"
+                    weight="w901"
                 ),
                 padding= ft.padding.only(20,20)
             ),
